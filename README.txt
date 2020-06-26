@@ -1,0 +1,3 @@
+-Execute twitter_receiver.py in a terminal
+-Execute twitter_handler.py in another terminal
+-After some waiting, you should start to see the predictions
